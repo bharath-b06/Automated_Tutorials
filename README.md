@@ -1,5 +1,5 @@
-# Automated_Tutorials
-automatic tutorial generator
+# A website for hosting Tutorials
+Built with Django
 
 
 Steps
